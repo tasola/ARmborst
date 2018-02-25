@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Phase 5\Scripts\ScoreController.cs">
+    <Files>
+      <File FileName="Assets\_Phase 5\Scripts\ScoreController.cs" Line="79" Column="63" />
+      <File FileName="Assets\_Phase 5\Scripts\LoadProjectile.cs" Line="33" Column="14" />
+      <File FileName="Assets\_Phase 5\Scripts\ProjectileShooter.cs" Line="71" Column="23" />
+      <File FileName="Assets\_Phase 5\Scripts\ObjectPlacementControl.cs" Line="27" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
